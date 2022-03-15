@@ -10,9 +10,7 @@ Reach me on:
 <a href="https://www.linkedin.com/in/jacobtuz/">
   <img align="left" alt="Jacob Tuz Poot | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/jtuz">
-  <img align="left" alt="Jacob Tuz Poot | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <br/>
 Until then, here's my favorite Charles Dickens quote:
