@@ -44,3 +44,4 @@ Reach me on:
 Until then, here's my favorite Charles Dickens quote:
 
 « No one is useless in this world, who lightens the burden of it for any one else. »
+GPG fingerprint: 45DC 0F8E 72F2 9AA0 E7C2  5203 C99E 2DD3 1A1A 4104
