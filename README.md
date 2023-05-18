@@ -15,21 +15,17 @@
 - ⚡ Fun fact: ...
 -->
 
-| T   | h   | i   | n   | g   | s   |     | I   |     | 💚                                            | :   |
-| -   | -   | -   | -   | -   | -   | -   | -   | -   | -                                             | -   |
-|     |     |     |     | `N` |     | `S` |     | `C` |                                               |     |
-|     |     | `D` | `E` | `V` | `S` | `E` | `C` | `O` | `P`                                           | `S` |
-| `M` |     | `J` |     | `I` |     | `C` |     | `D` |                                               |     |
-| `I` |     | `A` |     | `M` |     | `U` |     | `E` |                                               |     |
-| `N` |     | `N` |     |     |     | `R` |     |     |                                               |     |
-| `I` |     | `G` |     |     | `L` | `I` | `N` | `U` | `X`                                           |     |
-| `M` |     | `O` |     |     |     | `T` |     |     |                                               |     |
-| `A` |     |     |     |     |     | `Y` |     |     |                                               |     |
-| `L` |     |     |     |     | `R` |     |     |     |                                               |     |
-| `I` |     |     |     |     | `U` |     |     |     |                                               |     |
-| `S` |     |     |     |     | `B` |     |     |     | [📸](https://www.instagram.com/jacobtuz/)     |     |
-| `M` |     |     |     | `P` | `Y` | `T` | `H` | `O` | `N`                                           |     |
 
+Things I 💚:
+* Python
+* Minimalism
+* Django
+* Neovim
+* DevSecOps
+* Linux
+* Security
+* Ruby
+* Coding
 
 Reach me on:
 
