@@ -30,10 +30,10 @@ Things I 💚:
 Reach me on:
 
 <a href="https://twitter.com/jtuz">
-  <img align="left" alt="Jacob Tuz Poot | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jacob Tuz Poot | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="https://www.linkedin.com/in/jacobtuz/">
-  <img align="left" alt="Jacob Tuz Poot | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jacob Tuz Poot | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <br/>
 <br/>
