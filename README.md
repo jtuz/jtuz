@@ -3,8 +3,9 @@
 - I'm a DevSecOps & Back-end Engineer from México 🇲🇽
 - 🌱 I’m currently learning more about DevSecOps Tools, Python, Golang, Software Architecture Design
 - 👯 I’m looking to collaborate on Python projects
-- 🔭 I’m currently working at Cornershop By Uber
+
 <!--
+- 🔭 I’m currently working at Cornershop By Uber
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
